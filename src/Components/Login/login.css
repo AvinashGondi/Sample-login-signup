@@ -1,0 +1,29 @@
+.login_oueter {
+    width: 360px;
+    max-width: 100%;
+}
+.logo_outer{
+    text-align: center;
+}
+.logo_outer img{
+    width:120px;
+    margin-bottom: 40px;
+}
+
+.login-register_btn {
+    margin-left: 6px;
+    color: rgb(82, 225, 255);
+}
+
+.login-register_btn:active {
+    border: 0px;
+    background: none;
+}
+
+.login-register_btn:focus {
+    border: 0px;
+}
+
+.login-register_btn:hover {
+    cursor: pointer;
+}
